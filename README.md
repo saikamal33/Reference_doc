@@ -17,5 +17,6 @@ AWS Python Boto3 Example: https://gist.github.com/mda590/679aba...
 ## Ansible community docs
 https://docs.ansible.com/ansible/latest/reference_appendices/playbooks_keywords.html
 
-## Terraform AWS provider
+## Terraform provider
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+https://developer.hashicorp.com/terraform/language/import
